@@ -262,7 +262,7 @@ for w in not_related_set:
 	not_related_sum+=not_related_count[w]
 
 
-## diving each value by total value (normalized term frequency)
+## dividing each value by total value (normalized term frequency)
 for w in cant_tell_set:
 	cant_tell_sum+=cant_tell_count[w]
 
